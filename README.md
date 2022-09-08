@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fameen, a project of my own online e-commerce platform.](https://github.com/FahimJadid/fameen)
 
-- 🌱 I’m currently Studying ** CSE principles, nestjs, graphQL, nginx and polishing my frontend and backend abilities. I'm studying stuff in depth from frontendmasters.com classes and bridging gaps in my abilities via practice.**
+- 🌱 I’m currently Studying CSE principles, nestjs, graphQL, nginx and polishing my frontend and backend abilities. I'm studying stuff in depth from frontendmasters.com classes and bridging gaps in my abilities via practice.
 
 - 👨‍💻 All of my projects are available at [fahimaljadid.com](fahimaljadid.com)
 
