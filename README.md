@@ -1,7 +1,7 @@
 <h1 align="center">### Hi there, I'm Jadid 👋🏽</h1>
 <h3 align="center">Software Engineer, A pharmacist who has gone rogue and found a penchant for software development.</h3>
 
-- 🔭 I’m currently working on [Fameen](https://github.com/FahimJadid/fameen), a project of my own online e-commerce platform.
+- 🔭 I’m currently working on [Fameen](https://github.com/FahimJadid/fameen), an e-commerce clothing store.
 
 
 - 📫 How to reach me 
