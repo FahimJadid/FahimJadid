@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!, I'm Fahim Al Jadid</h1>
+<h1 align="center">### Hi there, I'm [Jadid](https://www.linkedin.com/in/fahimaljadid/) 👋🏽</h1>
 <h3 align="center">Software Engineer, A pharmacist who has gone rogue and found a penchant for software development.</h3>
 
 - 🔭 I’m currently working on [Fameen, a project of my own online e-commerce platform.](https://github.com/FahimJadid/fameen)
