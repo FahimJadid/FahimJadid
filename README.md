@@ -5,4 +5,4 @@
 
 - 📫 How to reach me **fahimaljadid@gmail.com**
 
-- 📄 Perhaps a well-organized resume [https://github.com/FahimJadid/resume](https://github.com/FahimJadid/resume)
+- 📄 Perhaps a well-organized resume [https://fahimjadid.github.io/resume/](https://fahimjadid.github.io/resume/)
