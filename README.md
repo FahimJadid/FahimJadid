@@ -1,17 +1,13 @@
 <h1 align="center">Hi There!, I'm Fahim Al Jadid</h1>
-<h3 align="center">A pharmacist who has deviated from his typical path and discovered a passion for software development, which he is actively pursuing. I'm interested in a job in technology since it allows me to mix my analytical and creative capabilities. As a software developer, I feel that technology, particularly in the software business, offers limitless possibilities. Working in technology is a satisfying job that allows me to gain new skills every day and apply them to build unique apps that aid people in their daily lives. I eventually want to be a senior web developer and am presently honing my talents for that role. I've been interested in software development from my first programming experiences, but it wasn't until COVID-19 that I realized how much I loved it. I produced something on my own utilizing the technology I learnt after gaining important abilities in software development. It was a fascinating experience to see how each piece of code works together to make an interactive software, and I hope to utilize my talents to aid a bigger audience in the future.</h3>
+<h3 align="center">Software Engineer, A pharmacist who has gone rogue and found a penchant for software development.</h3>
 
 - 🔭 I’m currently working on [Fameen, a project of my own online e-commerce platform.](https://github.com/FahimJadid/fameen)
 
 - 🌱 I’m currently Studying CSE principles, nestjs, graphQL, nginx and polishing my frontend and backend abilities. I'm studying stuff in depth from frontendmasters.com classes and bridging gaps in my abilities via practice.
 
-- 👨‍💻 All of my projects are available at [fahimaljadid.com](fahimaljadid.com)
-
 - 📫 How to reach me **fahimaljadid@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/FahimJadid/Modern-Resume](https://github.com/FahimJadid/Modern-Resume)
-
-- ⚡ Fun fact: **Sometimes I'm frustrated when coding, yet I'm still hilarious. And I'm a big fan of memes.**
+- 📄 Perhaps a well-organized resume [https://github.com/FahimJadid/resume](https://github.com/FahimJadid/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
