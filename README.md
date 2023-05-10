@@ -1,4 +1,4 @@
-<img src="https://imgur.com/YJXXQ3D" width="100%">
+<img src="https://i.imgur.com/YJXXQ3Dundefined.png" width="100%">
 
 <p align="center">
   <a href="https://fahimaljadid.com" target="_blank">
